@@ -1,5 +1,5 @@
 {
-  "name": "crud-function-2-typescript",
+  "name": "react-todoapp-typescript-cv2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +14,7 @@
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
     "typescript": "^4.5.5",
+    "react-icons": "^4.1.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
